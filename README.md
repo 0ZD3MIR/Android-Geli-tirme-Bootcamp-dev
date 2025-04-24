@@ -1,1 +1,1 @@
-# Android-Geli-tirme-Bootcamp-dev
+# Android-Gelistirme-Bootcamp-Odevler
