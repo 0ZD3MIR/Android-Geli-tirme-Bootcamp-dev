@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Deno</string>
+    <string name="birinci_baslik">Pastry Chef Deno</string>
+    <string name="pasta_ismi_1">Banana Love</string>
+    <string name="pasta_icerik_1">Banana</string>
+    <string name="pasta_icerik_2">Whipped Cream</string>
+    <string name="pasta_icerik_3">Love</string>
+    <string name="teslimat_saat_1">just in 1 hour</string>
+    <string name="teslimat_aciklama">DELIVERED TO YOUR DOOR !</string>
+    <string name="pasta_fiyat">$ 20.00</string>
+    <string name="sepete_ekleme">Get This Treat !</string>
+    <string name="aciklama">"Sweet Hearts, Sweeter Bananas"</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Deno</string>
+        <string name="birinci_baslik">Pasta Şefi Deno</string>
+        <string name="pasta_ismi_1">Muz Aşkı</string>
+        <string name="pasta_icerik_1">Muz</string>
+        <string name="pasta_icerik_2">Krem Şanti</string>
+        <string name="pasta_icerik_3">Aşk</string>
+        <string name="teslimat_saat_1">sadece 1 saate</string>
+        <string name="teslimat_aciklama">EVİNİZE TESLİM !</string>
+        <string name="pasta_fiyat">350 ₺</string>
+        <string name="sepete_ekleme">HEMEN KAP !</string>
+        <string name="aciklama">"Tatlı Kalpler, Daha Tatlı Muzlar."</string>
+
+
+</resources>
